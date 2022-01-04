@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cemilan.cemilaan_20200140112.Cemilaan20200140112ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.788 s - in cemilan.cemilaan_20200140112.Cemilaan20200140112ApplicationTests
